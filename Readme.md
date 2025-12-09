@@ -342,7 +342,7 @@ After completing this assignment, you will be able to:
 
 ## 📘 Reference
 
-- View explanation: [explanation02.md](explanation02.md)
+- View step by step explanation: [Explanation-02.md](explanation02.md)
 - View solution: [Solve.cpp](Solve.cpp)
 
 ---
